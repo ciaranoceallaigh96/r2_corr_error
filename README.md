@@ -1,1 +1,1 @@
-Simulation code for "Which R^2 Should Be Used to Benchmark Genomic Prediction Models Against Heritability?" (2026).
+Simulation code for "Which R2 Should Be Used to Benchmark Polygenic Score Performance Against Heritability?" (2026).
